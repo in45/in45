@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Inas Hasnaoui 👋
 
-<!--
-**in45/in45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate blockchain engineer and researcher with a deep interest in developing decentralized applications (dApps) and smart contracts. I enjoy exploring and contributing to the advancement of blockchain technology, combining practical engineering with academic research to drive innovation and solve complex problems.
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- **Email:** inashasnaoui1802@gmail.com
+- **LinkedIn:** [inas-hasnaoui](https://www.linkedin.com/in/inas-hasnaoui/)
+- **Twitter:** [N3sius](https://x.com/N3sius)
+- **Discord:** nesius
+- **Telegram:** [N3sius](https://t.me/N3sius)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
