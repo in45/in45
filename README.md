@@ -10,5 +10,7 @@ I'm a passionate blockchain engineer and researcher with a deep interest in deve
 - **Discord:** nesius
 - **Telegram:** [N3sius](https://t.me/N3sius)
 
+## 🌱 Contributions
+![Inas's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=in45&theme=merko&count_private=true)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
