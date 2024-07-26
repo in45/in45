@@ -13,4 +13,7 @@ I'm a passionate blockchain engineer and researcher with a deep interest in deve
 ## 🌱 Contributions
 ![Inas's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=in45&theme=merko&count_private=true)
 
+## 🏆 GitHub Trophies
+![Inas's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=in45&theme=discord&margin-w=15&margin-h=15&column=5&count_private=true)
+
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
