@@ -7,7 +7,6 @@ I'm a passionate blockchain engineer and researcher with a deep interest in deve
 - **Email:** inashasnaoui1802@gmail.com
 - **LinkedIn:** [inas-hasnaoui](https://www.linkedin.com/in/inas-hasnaoui/)
 - **Twitter:** [N3sius](https://x.com/N3sius)
-- **Discord:** nesius
 - **Telegram:** [N3sius](https://t.me/N3sius)
 
 ## 🌱 Contributions
